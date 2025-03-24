@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
