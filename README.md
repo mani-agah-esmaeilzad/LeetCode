@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
