@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 <!---LeetCode Topics End-->
