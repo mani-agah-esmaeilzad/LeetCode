@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 ## String
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Sliding Window
+|  |
+| ------- |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
