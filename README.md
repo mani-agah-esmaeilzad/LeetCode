@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Greedy
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
