@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0007-reverse-integer) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Database
 |  |
@@ -38,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/1827-invalid-tweets) |
 | [2024-calculate-special-bonus](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2024-calculate-special-bonus) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
