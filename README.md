@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Database
 |  |
