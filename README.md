@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
+| [0768-partition-labels](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0768-partition-labels) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0768-partition-labels](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0768-partition-labels) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
+| [0768-partition-labels](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0768-partition-labels) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Enumeration
