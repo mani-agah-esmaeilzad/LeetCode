@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0018-4sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 ## Breadth-First Search
 |  |
