@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2340-total-appeal-of-a-string](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2340-total-appeal-of-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
