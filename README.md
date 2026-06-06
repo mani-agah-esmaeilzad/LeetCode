@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0029-divide-two-integers) |
 | [2050-count-good-numbers](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/2050-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mani-agah-esmaeilzad/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
